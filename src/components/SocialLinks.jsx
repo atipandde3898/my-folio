@@ -2,7 +2,7 @@ import React from "react";
 import { FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
-import resume from "../assets/resume.pdf"
+import resume from "../assets/atiwfolio.pdf"
 const SocialLinks = () => {
   const links = [
     {
@@ -12,7 +12,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://linkedin.com/in/rahulkarda2002",
+      href: "https://www.linkedin.com/in/atharva-pandey-89b784222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       style: "rounded-tr-md",
     },
     {
@@ -22,7 +22,7 @@ const SocialLinks = () => {
           GitHub <FaGithub size={30} />
         </>
       ),
-      href: "https://github.com/rahulkarda",
+      href: "https://github.com/atipandde3898",
     },
     {
       id: 3,
@@ -50,7 +50,7 @@ const SocialLinks = () => {
           Twitter <FaTwitter size={30} />
         </>
       ),
-      href: "https://twitter.com/rahulkarda2002",
+      href: "https://twitter.com/ati3898?t=Dw5PzvCHJnTXYldzvURfBA&s=09",
       style: "rounded-br-md",
     },
   ];

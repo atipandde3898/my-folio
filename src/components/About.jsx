@@ -14,6 +14,9 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-5">
+         Hi, My name is Atharv pande
+         <br />
+         <br />
         I am a web developer, working in both, backend and frontend programming. Excited for improving my skills and learning new technologies. I'm open to learn and work with any web technology and currently interning with 360 SME Solutions
         </p>
 
