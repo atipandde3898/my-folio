@@ -1,9 +1,9 @@
 import React from "react";
-import api from "../assets/portfolio/api.jpg";
-import apod from "../assets/portfolio/apod.jpg";
+import api from "../assets/portfolio/folio.png";
+import apod from "../assets/portfolio/pomodoro.png";
 // import iptracker from "../assets/portfolio/iptracker.jpg";
 // import nftportal from "../assets/portfolio/nftportal.jpg";
-import webpostman from "../assets/portfolio/webpostman.jpg";
+import webpostman from "../assets/portfolio/gitlogo.png";
 // import waveportal from "../assets/portfolio/waveportal.jpg";
 
 const Portfolio = () => {
